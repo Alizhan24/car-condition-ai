@@ -14,7 +14,7 @@ Streamlit-приложение для автоматического анали�
 
 1. Склонируй репозиторий:
 ```bash
-git clone https://github.com/<your-username>/car-condition-ai.git
+git clone https://github.com/Alizhan24/car-condition-ai.git
 cd car-condition-ai
 
 
